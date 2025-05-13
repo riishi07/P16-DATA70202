@@ -74,6 +74,12 @@ All datasets are shared for academic and non-commercial use only.
 
 Start with `notebooks/01_EDA.ipynb` and follow the pipeline sequentially.
 
+##DOI
+10.5281/zenodo.15395703
+[![DOI](https://zenodo.org/badge/982768730.svg)](https://doi.org/10.5281/zenodo.15395702)
+
+
+
 
 ## 📝 License
 
